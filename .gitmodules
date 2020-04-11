@@ -1,0 +1,4 @@
+[submodule "eunomia"]
+	path = eunomia
+	url = https://github.com/KohlsTechnology/eunomia.git
+	branch = master
