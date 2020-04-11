@@ -1,15 +1,6 @@
-# YOURPROJECTNAME
+# Eunomia submodules test case
 
-Describe what this project is all about.
-
-## Installation
-
-Add steps for installing here.
-
-## Documentation
-
-Add documentaiton here, or add a link to
-the full documentation.
+This repository is used to execute the e2e test to ensure the git submodules functionality is working properly. It's sole purpose in life is to provide access to the master branch of the main eunomia repo, through a submodule.
 
 ## Developing
 
@@ -19,18 +10,6 @@ for details.
 ## License
 
 See [LICENSE](LICENSE) for details.
-
-**START REMOVE THIS BEFORE RELEASE OF PROJECT**
-
-Each source file must include a header comment
-with the Apache 2.0 license details. The copyright
-section in the header must be filled in with the below
-details.
-
-```
-Copyright 2019 Kohl's Department Stores, Inc. 
-```
-**END REMOVE THIS BEFORE RELEASE OF PROJECT**
 
 ## Code of Conduct
 
